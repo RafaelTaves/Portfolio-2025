@@ -16,7 +16,10 @@
       "projects-title3": "OF",
       "contact-title1": "FELL FREE TO",
       "contact-title2": "CONNECT",
-      "contact-title3": "WITH ME"
+      "contact-title3": "WITH ME",
+      "project-cardDetails": "Details",
+      "project-laytimeDescription": "A calculator that determines the time a terminal has to complete a ship's loading operations based on the agreed contractual terms, helping to avoid penalties for the client.",
+      "project-documentExtractorDescription": "A Python API fully integrated with Google's Gemini AI for automated document information extraction."
     },
     "animation": {
     "fullStackDeveloper": "Full-stack Developer",

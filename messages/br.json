@@ -16,7 +16,10 @@
       "projects-title3": "",
       "contact-title1": "ENTRE EM",
       "contact-title2": "CONTATO",
-      "contact-title3": "COMIGO"
+      "contact-title3": "COMIGO",
+      "project-cardDetails": "Ver projeto",
+      "project-laytimeDescription": "Calculadora que, com base nos termos contratuais acordados, calcula o prazo que o terminal possui para realizar as operações de carregamento do navio, evitando multas ao cliente.",
+      "project-documentExtractorDescription": "API em Python totalmente integrada à Inteligência Artificial Gemini (Google) para extração automatizada de informações em documentos."
     },
     "animation": {
     "fullStackDeveloper": "Programador Full-stack",
