@@ -1,0 +1,27 @@
+{
+    "HomePage": {
+      "header-aboutMe": "SOBRE MIM",
+      "header-projects": "PROJETOS",
+      "header-contact": "CONTATO",
+      "header-resume": "CURRÍCULO",
+      "home-hey": "Olá, visitante!",
+      "home-im": "Meu nome é",
+      "mobile-home-im": "Eu sou",
+      "about-title1": "QUEM É",
+      "about-descriptionTitle": "💻 Desenvolvedor Front-End | React | Next | Typescript",
+      "about-descriptionP1": "Estudante de Sistemas de Informação na Unilasalle-RJ, com experiência prática em desenvolvimento front-end. Atualmente, atuo como estagiário criando interfaces modernas, responsivas e de alto desempenho, utilizando React, TypeScript e Tailwind CSS. ",
+      "about-descriptionP2": "🚀 Apaixonado por tecnologia e inovação, busco aprimorar minhas habilidades para contribuir com soluções escaláveis e impactantes. Tenho experiência no consumo de APIs, desenvolvimento de aplicações web complexas, deploy de projetos e versionamento de código com Git, sempre focando em performance, acessibilidade e experiência do usuário.",
+      "projects-title1": "TRABALHOS DOS QUAIS ME",
+      "projects-title2": "ORGULHO",
+      "projects-title3": "",
+      "contact-title1": "ENTRE EM",
+      "contact-title2": "CONTATO",
+      "contact-title3": "COMIGO"
+    },
+    "animation": {
+    "fullStackDeveloper": "Programador Full-stack",
+    "reactSpecialist": "Especialista em React",
+    "softwareDeveloper": "Desenvolvedor de Software",
+    "webProgrammer": "Programador Web"
+  }
+}
